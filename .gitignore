@@ -1,0 +1,15 @@
+# Data
+data/*.csv
+data/*.parquet
+
+# Models
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
